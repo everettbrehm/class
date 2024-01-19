@@ -20,5 +20,3 @@
     <img src="images/lemon-posset.jpg" alt="Lemon Posset" title="Lemon Posset" />
     <img src="images/roasted-brussel-sprouts.jpg" alt="Roasted Brussel Sprouts" title="Roasted Brussel Sprouts" />
     <img src="images/zucchini-cake.jpg" alt="Zucchini Cake" title="Zucchini Cake" />
-</body>
-</html>
